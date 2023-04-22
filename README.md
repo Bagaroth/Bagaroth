@@ -11,7 +11,7 @@
   <img align="center" alt="Bagaroth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bagaroth-PHP" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="right" alt="Bagaroth-pic" height="150" style="border-radius:50px;" 
-src="https://media.discordapp.net/attachments/1065442095684399165/1097669550864072724/1289433.png?width=840&height=473">
+src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635617/bfaceblakk.png">
 </div>
   
   ##
