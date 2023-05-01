@@ -1,4 +1,4 @@
-<div>
+<div style="display: inline_block">
 <div>
 ### 👋 Hey guys!
 💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Full Stack!<br>
