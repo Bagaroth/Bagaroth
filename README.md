@@ -36,6 +36,6 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagaroth&layout=compact)](https://github.com/bagaroth/github-readme-stats)
 
-  <div width="10">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko)</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko)
 
   </div>
