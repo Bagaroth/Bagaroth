@@ -6,7 +6,11 @@
 🏴‍☠️ 👮‍ 🏴‍☠️       Militar!<br>
 🏋 🚴 🏃      Gym!
 
-
+<div>
+  <a href="https://www.linkedin.com/in/matheus-bagaroth-861541269/" target="_blank">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Bagaroth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bagaroth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,9 +36,4 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
 </div>
 
 ##
-  <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/matheus-bagaroth-861541269/" target="_blank">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagaroth&layout=compact&langs_count=16&theme=merko"/>
-
-  </div>
+  
