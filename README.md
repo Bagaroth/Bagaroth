@@ -32,7 +32,7 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
 </div>
 
 ##
-  <div style="display: inline_block">
+  <div style="display: flex; justify-content= center;">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagaroth&layout=compact)](https://github.com/bagaroth/github-readme-stats)
 
