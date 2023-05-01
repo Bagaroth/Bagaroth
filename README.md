@@ -1,10 +1,10 @@
 ### 👋 Hey guys!
-💻 ⌨️ 🖥️  Eu sou o Matheus Bagaroth, Desenvolvedor Front-End!<br>
-📕 📖 📚   Atualmente estudando PHP e Node=--JS 
-✖ ➕ ➖   Graduado em Matemática!<br>
-🎷 🎺 🎼  Músico!<br>
-🏴‍☠️ 👮‍ 🏴‍☠️   Militar!<br>
-🏋 🚴 🏃   Gym!
+💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Front-End!<br>
+📕 📖 📚      Atualmente estudando PHP e NodeJS<br>
+✖ ➕ ➖       Graduado em Matemática!<br>
+🎷 🎺 🎼      Músico!<br>
+🏴‍☠️ 👮‍ 🏴‍☠️       Militar!<br>
+🏋 🚴 🏃      Gym!
 
 
 <div style="display: inline_block"><br>
