@@ -1,5 +1,4 @@
-<div style="display: inline_block">
-<div>
+
 ### 👋 Hey guys!
 💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Full Stack!<br>
 📕 📖 📚      Atualmente estudando React e NodeJS!<br>
@@ -7,13 +6,7 @@
 🎷 🎺 🎼      Músico!<br>
 🏴‍☠️ 👮‍ 🏴‍☠️       Militar!<br>
 🏋 🚴 🏃      Gym!
- </div>
 
-<div>
-  <a href="https://www.linkedin.com/in/matheus-bagaroth-861541269/" target="_blank">
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Bagaroth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -41,3 +34,7 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
 
 ##
   
+<div>
+  <a href="https://www.linkedin.com/in/matheus-bagaroth-861541269/" target="_blank">
+  <img height="100em"  src="https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
