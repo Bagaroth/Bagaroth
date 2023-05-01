@@ -24,3 +24,9 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
    <a href = "mailto:matheusbagaroth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth)](https://github.com/anuraghazra/github-readme-stats)
+</div>
