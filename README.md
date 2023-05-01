@@ -28,5 +28,5 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
 ##
 
 <div>
-  <a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth)](https://github.com/anuraghazra/github-readme-stats)</a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
