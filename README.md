@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/matheus-bagaroth-861541269/" target="_blank">
-  <img height="100em"  align="right" src="https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="200em"  align="right" src="https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
  
   
@@ -24,8 +24,8 @@
   <img align="center" alt="Bagaroth-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Bagaroth-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bagaroth-PHP" height="55" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Bagaroth-pic" height="150" style="border-radius:50px;" 
-src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635617/bfaceblakk.png">
+  <!--<img align="right" alt="Bagaroth-pic" height="150" style="border-radius:50px;" 
+src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635617/bfaceblakk.png">-->
 </div>
   
   ##
