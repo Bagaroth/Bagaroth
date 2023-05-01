@@ -35,7 +35,6 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
   <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/matheus-bagaroth-861541269/" target="_blank">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=bagaroth&layout=compact&langs_count=16&theme=merko"/>
 
   </div>
