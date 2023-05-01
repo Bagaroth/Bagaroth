@@ -1,6 +1,6 @@
 ### 👋 Hey guys!
-💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Front-End!<br>
-📕 📖 📚      Atualmente estudando PHP e NodeJS!<br>
+💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Full Stack!<br>
+📕 📖 📚      Atualmente estudando React e NodeJS!<br>
 ✖ ➕ ➖       Graduado em Matemática!<br>
 🎷 🎺 🎼      Músico!<br>
 🏴‍☠️ 👮‍ 🏴‍☠️       Militar!<br>
@@ -10,6 +10,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Bagaroth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bagaroth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bagaroth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bagaroth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Bagaroth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bagaroth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bagaroth-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -31,7 +33,7 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
 </div>
 
 ##
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagaroth&layout=compact)](https://github.com/bagaroth/github-readme-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko)
 
