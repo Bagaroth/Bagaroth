@@ -28,5 +28,5 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
 ##
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=gruvbox)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko)
 
