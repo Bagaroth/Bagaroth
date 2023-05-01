@@ -32,9 +32,9 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
 </div>
 
 ##
-  <div style="display: inline"><br>
+  <div style="display: inline_block"><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagaroth)](https://github.com/bagaroth/github-readme-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagaroth&show_icons=true&theme=merko)
 
