@@ -1,6 +1,6 @@
 
 ### 👋 Hey guys!
-💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Full Stack!<br>
+💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Freelancer Full Stack!<br>
 📕 📖 📚      Atualmente estudando React e NodeJS!<br>
 ✖ ➕ ➖       Graduado em Matemática!<br>
 🎷 🎺 🎼      Músico!<br>
