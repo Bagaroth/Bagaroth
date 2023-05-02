@@ -40,7 +40,7 @@ src="https://cdn.discordapp.com/attachments/1065442087711014912/1099043161151635
    <a href = "mailto:matheusbagaroth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    
 </div>
-![snake gif](https://github.com/Bagaroth/Bagaroth/blob/output/github-contribution-grid-snake.svg)
+
 ##
    
 
