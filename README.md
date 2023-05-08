@@ -5,8 +5,6 @@
 </div>
 👋 Hey guys!<br>
       
-      ##
-      
 💻 ⌨️ 🖥️     Eu sou o Matheus Bagaroth, Desenvolvedor Freelancer Full Stack!<br>
 📕 📖 📚      Atualmente estudando React e NodeJS!<br>
 ✖ ➕ ➖       Graduado em Matemática!<br>
